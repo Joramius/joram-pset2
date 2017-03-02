@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Joram-pset2</string>
+    <string name="action_settings">Settings</string>
+    <string name="story">One of the most %1$s characters in fiction is named \"Tarzan of the %2$s.\"
+        Tarzan was raised by a/an %3$s and lives in the %4$s jungle in the heart of
+        darkest %5$s. He spends most of his time eating %6$s and swinging from tree to %7$s.
+        Whenever he gets angry, he beats on his chest and says, \"%8$s!\" This is his war cry.
+        Tarzan always dresses in %9$s shorts made from the skin of a/an %10$s and his best
+        friend is a/an %11$s chimpanzee named Cheetah. He is supposed to be able to speak to
+        elephants and %12$s. In the movies, Tarzan is played by %13$s.</string>
+    <string name="wordCount">%1$d / 13</string>
+</resources>
